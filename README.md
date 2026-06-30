@@ -9,4 +9,16 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Deekasi/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Deekasi/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Deekasi/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Deekasi/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
