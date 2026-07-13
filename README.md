@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deekasi/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/Deekasi/Leetcode-solution/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,4 +22,20 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deekasi/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deekasi/Leetcode-solution/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deekasi/Leetcode-solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deekasi/Leetcode-solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deekasi/Leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
