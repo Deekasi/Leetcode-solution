@@ -14,6 +14,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deekasi/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Deekasi/Leetcode-solution/tree/master/0169-majority-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deekasi/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,8 +43,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Deekasi/Leetcode-solution/tree/master/0050-powx-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deekasi/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Deekasi/Leetcode-solution/tree/master/0050-powx-n) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deekasi/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
