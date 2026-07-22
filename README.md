@@ -43,13 +43,23 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Deekasi/Leetcode-solution/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Deekasi/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deekasi/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Deekasi/Leetcode-solution/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Deekasi/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deekasi/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Deekasi/Leetcode-solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Deekasi/Leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
