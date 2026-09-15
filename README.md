@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deekasi/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Deekasi/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -42,12 +43,14 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deekasi/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Deekasi/Leetcode-solution/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Deekasi/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deekasi/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deekasi/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Deekasi/Leetcode-solution/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Deekasi/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Number Theory
