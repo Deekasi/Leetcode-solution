@@ -62,4 +62,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Deekasi/Leetcode-solution/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Deekasi/Leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
